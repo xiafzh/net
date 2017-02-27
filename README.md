@@ -1,2 +1,2 @@
 # net
-简单的网络库
+my simple net lib
